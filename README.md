@@ -15,12 +15,8 @@
 - 📫 Email **hadiyogga@gmail.com**
 
 <h3 align="left">Hasil Tampilan Project:</h3>
-<img align="left" alt="Coding" width="300" src="[https://i.postimg.cc/cJ7P7VcG/profile.jpg](https://i.ibb.co/mtHBvDd/page1.jpg)">
-<p align="left">
-  <img align="left" alt="Coding" width="300" src="[https://i.postimg.cc/cJ7P7VcG/profile.jpg](https://i.ibb.co/mtHBvDd/page1.jpg)">
-<p align="left">
-  <img align="left" alt="Coding" width="300" src="[https://i.postimg.cc/cJ7P7VcG/profile.jpg](https://i.ibb.co/mtHBvDd/page1.jpg)">
-<p align="left">
+<img align="left" alt="Coding" width="300" src="(https://i.ibb.co/Hn3F0TR/page1.jpg)">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
